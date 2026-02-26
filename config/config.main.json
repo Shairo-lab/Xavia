@@ -1,0 +1,18 @@
+{
+    "ALLOW_INBOX": true,
+    "DATABASE": "JSON",
+    "DATABASE_JSON_BEAUTIFY": true,
+    "LANGUAGE": "en_US",
+    "LOG_LEVEL": 1,
+    "MODERATORS": [
+        "webchat_user_001"
+    ],
+    "ABSOLUTES": [
+        "webchat_user_001"
+    ],
+    "NAME": "Xavia",
+    "PREFIX": "x",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "REFRESH": "0",
+    "MAX_BALANCE_LIMIT": "-1"
+}
